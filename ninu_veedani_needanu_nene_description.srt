@@ -1,44 +1,44 @@
 1
 00:00:00,000 --> 00:00:03,000
-A black screen appears with a skull wearing headphones.
-Text on screen reads: Use headphones for better experience.
+ఒక నల్లని స్క్రీన్ కనిపిస్తుంది. హెడ్‌ఫోన్స్ వేసుకున్న ఒక తలపాగా గుర్తు కనిపిస్తుంది.
+స్క్రీన్‌పై “మంచి అనుభవం కోసం హెడ్‌ఫోన్స్ ఉపయోగించండి” అనే వాక్యం కనిపిస్తుంది.
 
 2
 00:00:03,000 --> 00:00:12,000
-Cut to a dimly lit room.
-A young man lies on a bed, holding his phone above his chest.
-The room has a cool blue tone, giving a calm but slightly eerie feel.
+మసక వెలుతురులో ఉన్న ఒక గది కనిపిస్తుంది.
+ఒక యువకుడు మంచంపై పడుకొని తన ఫోన్‌ను తన ఛాతీపై పట్టుకుని చూస్తూ ఉంటాడు.
+గదిలో నీలం రంగు వెలుతురు ఉండి, ప్రశాంతంగా కానీ కొంచెం భయంకరమైన భావనను ఇస్తుంది.
 
 3
 00:00:12,000 --> 00:00:20,000
-He continues looking at his phone casually.
-Beside him on the bed are small objects, including earphones.
-Everything feels normal and quiet.
+అతను తన ఫోన్‌ను సాధారణంగా చూస్తూనే ఉంటాడు.
+మంచంపై అతని పక్కన చిన్న చిన్న వస్తువులు, ముఖ్యంగా ఇయర్‌ఫోన్స్ కనిపిస్తాయి.
+అన్నీ సాధారణంగా మరియు నిశ్శబ్దంగా అనిపిస్తాయి.
 
 4
 00:00:20,000 --> 00:00:26,000
-He gets up and walks toward a door.
-As he opens it, a bright yellow light floods in from outside, contrasting the dark room.
+అతను లేచి తలుపు వైపు నడుస్తాడు.
+తలుపు తెరిచిన వెంటనే బయట నుండి ప్రకాశవంతమైన పసుపు వెలుతురు లోపలికి వస్తుంది.
 
 5
 00:00:26,000 --> 00:00:36,000
-He steps into another area and picks up a small object, a box or container.
-He examines it under warm lighting.
-A strong shadow forms behind him on the wall, adding tension.
+అతను మరో ప్రాంతంలోకి వెళ్లి ఒక చిన్న వస్తువును, ఒక పెట్టెను తీసుకుంటాడు.
+దాన్ని వేడి వెలుతురులో పరిశీలిస్తాడు.
+అతని వెనుక గోడపై ఒక పెద్ద నీడ ఏర్పడి ఉత్కంఠను పెంచుతుంది.
 
 6
 00:00:36,000 --> 00:00:48,000
-He walks toward the door again.
-When he opens it, a mysterious person stands outside in darkness, holding a plastic bag.
-The visitor’s face is partially hidden, creating suspense.
+అతను మళ్లీ తలుపు వైపు నడుస్తాడు.
+తలుపు తెరిచినప్పుడు బయట చీకటిలో ఒక అనుమానాస్పద వ్యక్తి ప్లాస్టిక్ కవర్ పట్టుకొని నిలబడి ఉంటాడు.
+ఆ వ్యక్తి ముఖం పూర్తిగా కనిపించదు, ఇది ఉత్కంఠను పెంచుతుంది.
 
 7
 00:00:48,000 --> 00:01:00,000
-The man hesitates, then turns and walks back inside.
-The room remains dim, with a table lamp glowing in the foreground.
-The scene ends with an uneasy atmosphere.
+యువకుడు కొద్దిసేపు ఆగి, తిరిగి లోపలికి వెళ్తాడు.
+గది మసక వెలుతురులోనే ఉండి, ముందుభాగంలో టేబుల్ ల్యాంప్ వెలుగుతుంది.
+సన్నివేశం అసహజమైన భావనతో ముగుస్తుంది.
 
 8
 00:01:00,000 --> 00:01:08,000
-Title card appears: Ninu Veedani Needanu Nene.
-Credits roll over a smoky dark background.
+టైటిల్ కనిపిస్తుంది: నిను వీడని నీడను నేనే.
+పొగమంచు లాంటి నలుపు నేపథ్యంపై క్రెడిట్స్ కనిపిస్తాయి.
